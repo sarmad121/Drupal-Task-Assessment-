@@ -1,0 +1,1 @@
+[10-Jun-2016 05:05:09 Europe/London] PHP Fatal error:  Call to a member function use_pager() on null in /home2/empireinter/public_html/dev/sarmad1/sites/all/modules/views/includes/view.inc on line 690
